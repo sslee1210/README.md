@@ -23,13 +23,12 @@
 
 
 ### clone과pull 특징 ###
->>>>>>
+
 1. clone: 로컬에 저장소가 없는 경우. 저장소 자체를 복사
 2. pull: 로컬에 연결된 저장소에 있는 경우. 저장소 안에 있는 파일 내려받기
 
 
 충돌(CONFLICT)시 해결 방법
-1. git push -u origin main
-2. git add .
-3. git commit -am " "
+1. pull을 이용하여 온라인 저장소에 로컬로 파일 내려받기
+2. 로컬 저장소
 4.git pull -u origin main
