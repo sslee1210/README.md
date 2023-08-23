@@ -46,3 +46,5 @@ _해결_
 ### 충돌(CONFLICT)시 해결 방법 ###
 1. pull을 이용하여 온라인 저장소에 로컬로 파일 내려받기
 2. 받은 로컬 저장소의 문서를 수정 후 commit, push
+
+[enter link description here](https://github.com/sslee1210/README.md.git)
