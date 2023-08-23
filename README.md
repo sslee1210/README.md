@@ -19,4 +19,4 @@
 
 ### github에서 내려 받기 ###
 
-`$ git pull origin main`
+$ git pull origin main
