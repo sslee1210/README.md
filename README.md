@@ -1,6 +1,7 @@
 ## 230823 ##
 1. 로컬 저장소 ex생성
 $ git init
+`code($ git init)`
 
 2.README.md 파일 생성
 $ touch README.md
