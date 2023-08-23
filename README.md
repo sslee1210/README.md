@@ -47,4 +47,5 @@ _해결_
 1. pull을 이용하여 온라인 저장소에 로컬로 파일 내려받기
 2. 받은 로컬 저장소의 문서를 수정 후 commit, push
 
-[enter link description here](https://github.com/sslee1210/README.md.git)
+김미리 선생님 깃허브 주소: [enter link description here](https://github.com/kimmiri1234/2308URL)
+이성수 깃허브 주소: 
