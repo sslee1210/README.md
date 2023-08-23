@@ -21,7 +21,7 @@
 
 `$ git pull origin main`
 
-==========
+
 ### clone과pull 특징 ###
 >>>>>>
 1. clone: 로컬에 저장소가 없는 경우. 저장소 자체를 복사
