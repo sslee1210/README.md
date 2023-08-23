@@ -15,4 +15,4 @@
 4.ReadME.md 파일 온라인 저장소 업로드<br>
 `$ git push -u origin main, git push -u origin master`<br>
 
-*한번 commit을 했다면 $ git commit -am " "로 줘도 됨.<br>
+<b>*한번 commit을 했다면 $ git commit -am " "로 줘도 됨.<br></b>
