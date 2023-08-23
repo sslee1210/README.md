@@ -16,3 +16,5 @@
 `$ git push -u origin main, git push -u origin master`<br>
 
 <b>*한번 commit을 했다면 $ git commit -am " "로 줘도 됨.<br></b>
+
+### github에서 내려 받기 ###
