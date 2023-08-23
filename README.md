@@ -29,3 +29,7 @@
 
 
 충돌(CONFLICT)시 해결 방법
+1. git push -u origin main
+2. git add .
+3. git commit -am " "
+4.git pull -u origin main
