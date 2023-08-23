@@ -29,6 +29,6 @@
 
 
 충돌(CONFLICT)시 해결 방법
+ 온라인과 로컬 각각 수정이 일어났
 1. pull을 이용하여 온라인 저장소에 로컬로 파일 내려받기
-2. 로컬 저장소
-4.git pull -u origin main
+2. 받은 로컬 저장소의문서를수정 후 commit,push
